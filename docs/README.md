@@ -12,6 +12,7 @@ These guides are currently available:
 1. [Introduction to Software Development and Version Control](01-introduction.md)
 2. [Understanding How Git Works](02-understanding-git.md)
 3. [Understanding GitHub](03-understanding-github.md)
+4. [Understanding Repositories and Project Structure](04-repositories-and-project-structure.md)
 
 More guides will be added progressively.
 
@@ -23,7 +24,7 @@ More guides will be added progressively.
 - Understanding GitHub
 
 ### 02. GitHub Essentials
-- Repositories
+- Understanding Repositories and Project Structure
 - Files and Folders
 - README Files
 - Repository Settings
