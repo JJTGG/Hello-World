@@ -3,13 +3,22 @@
 
 This directory contains guides for learning Git, GitHub and the development workflows used to manage software projects.
 
-The materials are designed for both complete beginners and developers who already know some programming.
+The materials support both complete beginners and developers who already know some programming.
+
+## Available Guides
+
+These guides are currently available:
+
+1. [Introduction to Software Development and Version Control](01-introduction.md)
+2. [Understanding How Git Works](02-understanding-git.md)
+
+More guides will be added progressively.
 
 ## Learning Roadmap
 
 ### 01. Foundations
 - Introduction to Software Development
-- Understanding Git and Version Control
+- Understanding How Git Works
 - Understanding GitHub
 
 ### 02. GitHub Essentials
@@ -63,8 +72,6 @@ Each guide should include:
 
 ## Availability
 
-This roadmap describes the intended learning sequence. Not every guide is available yet.
-
-Check this directory for currently published lessons.
+The roadmap describes the intended learning sequence. Not every guide is available yet.
 
 Learn progressively, practise independently and advance at your own pace.
